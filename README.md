@@ -12,6 +12,9 @@ This project for Show current Hospital's facilities availability.
 ---
 `volenteers Authorities`
 ---
+### every volenteers have some authorities for do something
+### All authorities given by AdminUser
+---
 ![Screenshot (10)](https://user-images.githubusercontent.com/75325526/127782269-773bd1d6-7e8c-4f94-8c2a-cc4757cfff67.png)
 ---
 `Filtered Hospitals`
@@ -23,5 +26,8 @@ This project for Show current Hospital's facilities availability.
 ![Screenshot (12)](https://user-images.githubusercontent.com/75325526/127782272-d7090ccb-9ae2-40cb-8101-3336a1486c6d.png)
 
 
+
+## :heart: Owner
+Made with :heart:&nbsp;  by [Mohit Mahawar](https://github.com/mohitmahawar2011)
 
 
